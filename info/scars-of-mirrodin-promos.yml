@@ -1,0 +1,18 @@
+---
+object: set
+id: 761e8299-b38f-49b6-b6c4-f0315576f631
+code: psom
+name: Scars of Mirrodin Promos
+uri: https://api.scryfall.com/sets/761e8299-b38f-49b6-b6c4-f0315576f631
+scryfall_uri: https://scryfall.com/sets/psom
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apsom&unique=prints
+released_at: '2010-09-30'
+set_type: promo
+card_count: 3
+parent_set_code: som
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: som
+block: Scars of Mirrodin
+icon_svg_uri: https://svgs.scryfall.io/sets/som.svg?1694404800

@@ -1,0 +1,111 @@
+---
+object: card
+id: c9d74bae-0b96-4a78-b805-a0b764d0716c
+oracle_id: deeb942b-cf50-43f7-90a9-bdce4e42123a
+multiverse_ids: []
+tcgplayer_id: 38326
+cardmarket_id: 243698
+name: Memoricide
+lang: en
+released_at: '2010-09-30'
+uri: https://api.scryfall.com/cards/c9d74bae-0b96-4a78-b805-a0b764d0716c
+scryfall_uri: https://scryfall.com/card/psom/69%E2%98%85/memoricide?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/9/c9d74bae-0b96-4a78-b805-a0b764d0716c.jpg?1662281029
+  normal: https://cards.scryfall.io/normal/front/c/9/c9d74bae-0b96-4a78-b805-a0b764d0716c.jpg?1662281029
+  large: https://cards.scryfall.io/large/front/c/9/c9d74bae-0b96-4a78-b805-a0b764d0716c.jpg?1662281029
+  png: https://cards.scryfall.io/png/front/c/9/c9d74bae-0b96-4a78-b805-a0b764d0716c.png?1662281029
+  art_crop: https://cards.scryfall.io/art_crop/front/c/9/c9d74bae-0b96-4a78-b805-a0b764d0716c.jpg?1662281029
+  border_crop: https://cards.scryfall.io/border_crop/front/c/9/c9d74bae-0b96-4a78-b805-a0b764d0716c.jpg?1662281029
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Choose a nonland card name. Search target player's graveyard, hand, and
+  library for any number of cards with that name and exile them. Then that player
+  shuffles.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 761e8299-b38f-49b6-b6c4-f0315576f631
+set: psom
+set_name: Scars of Mirrodin Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/761e8299-b38f-49b6-b6c4-f0315576f631
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsom&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psom?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c9d74bae-0b96-4a78-b805-a0b764d0716c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adeeb942b-cf50-43f7-90a9-bdce4e42123a&unique=prints
+collector_number: 69★
+digital: false
+rarity: rare
+watermark: colorpie
+flavor_text: '"You claim wisdom, yet I see nothing in here but tawdry wishes."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Erica Yang
+artist_ids:
+- fcc15b63-b280-49da-9fee-f862824a2fc8
+illustration_id: c6d470b7-05a2-4e3d-8588-e6a6e9e63d8c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- buyabox
+edhrec_rank: 22479
+penny_rank: 2379
+prices:
+  usd: 
+  usd_foil: '0.56'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.29'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Memoricide&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Memoricide&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Memoricide
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38326?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Memoricide&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Memoricide&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

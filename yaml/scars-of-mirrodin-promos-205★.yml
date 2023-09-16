@@ -1,0 +1,113 @@
+---
+object: card
+id: b268cd3b-af91-4c22-ac73-347babb69200
+oracle_id: 6e64f1e0-ddd6-4ee7-8797-086e234b02e8
+multiverse_ids: []
+tcgplayer_id: 38291
+cardmarket_id: 242747
+name: Steel Hellkite
+lang: en
+released_at: '2010-09-30'
+uri: https://api.scryfall.com/cards/b268cd3b-af91-4c22-ac73-347babb69200
+scryfall_uri: https://scryfall.com/card/psom/205%E2%98%85/steel-hellkite?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/2/b268cd3b-af91-4c22-ac73-347babb69200.jpg?1605371303
+  normal: https://cards.scryfall.io/normal/front/b/2/b268cd3b-af91-4c22-ac73-347babb69200.jpg?1605371303
+  large: https://cards.scryfall.io/large/front/b/2/b268cd3b-af91-4c22-ac73-347babb69200.jpg?1605371303
+  png: https://cards.scryfall.io/png/front/b/2/b268cd3b-af91-4c22-ac73-347babb69200.png?1605371303
+  art_crop: https://cards.scryfall.io/art_crop/front/b/2/b268cd3b-af91-4c22-ac73-347babb69200.jpg?1605371303
+  border_crop: https://cards.scryfall.io/border_crop/front/b/2/b268cd3b-af91-4c22-ac73-347babb69200.jpg?1605371303
+mana_cost: "{6}"
+cmc: 6.0
+type_line: Artifact Creature — Dragon
+oracle_text: |-
+  Flying
+  {2}: Steel Hellkite gets +1/+0 until end of turn.
+  {X}: Destroy each nonland permanent with mana value X whose controller was dealt combat damage by Steel Hellkite this turn. Activate only once each turn.
+power: '5'
+toughness: '5'
+colors: []
+color_identity: []
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 761e8299-b38f-49b6-b6c4-f0315576f631
+set: psom
+set_name: Scars of Mirrodin Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/761e8299-b38f-49b6-b6c4-f0315576f631
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apsom&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/psom?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b268cd3b-af91-4c22-ac73-347babb69200/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6e64f1e0-ddd6-4ee7-8797-086e234b02e8&unique=prints
+collector_number: 205★
+digital: false
+rarity: rare
+watermark: mirran
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jaime Jones
+artist_ids:
+- 92f6c2c1-fa57-4b52-99c4-0fd866c13dc9
+illustration_id: 04c2f668-9988-4b5e-afde-247ffcc2a2a6
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- release
+edhrec_rank: 593
+penny_rank: 868
+prices:
+  usd: 
+  usd_foil: '2.10'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.58'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Steel+Hellkite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Steel+Hellkite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Steel+Hellkite
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38291?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Steel+Hellkite&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Steel+Hellkite&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
